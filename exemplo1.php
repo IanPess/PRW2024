@@ -13,12 +13,8 @@
     </style>
 </head>
 <body>
-    <h1>Ian</h1>
-    <div>
     <?php
-        $nota=10.5;
-        echo "<div>Nota final:$nota</div>";
+        echo "Ola Mundo";
     ?>
-    </div>
 </body>
 </html>
